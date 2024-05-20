@@ -10,6 +10,7 @@ http_archive(
     strip_prefix = "buildifier-prebuilt-6.3.3",
     urls = [
         "https://github.com/keith/buildifier-prebuilt/archive/6.3.3.tar.gz",
+        "https://codeload.github.com/keith/buildifier-prebuilt/tar.gz/refs/tags/6.3.3",
     ],
 )
 

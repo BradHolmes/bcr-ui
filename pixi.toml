@@ -1,0 +1,11 @@
+[project]
+name = "bcr-ui"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["Holmes, Brad <holmesbr@ncbi.nlm.nih.gov>"]
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[tasks]
+
+[dependencies]

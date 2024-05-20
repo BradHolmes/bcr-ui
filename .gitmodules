@@ -1,3 +1,6 @@
 [submodule "data/bazel-central-registry"]
 	path = data/bazel-central-registry
 	url = https://github.com/bazelbuild/bazel-central-registry.git
+[submodule "data/ncbi-bazel-central-registry"]
+	path = data/ncbi-bazel-central-registry
+	url = https://gitlab.be-md.ncbi.nlm.nih.gov/pd/gdh/gdapi/prototypes/ncbi-bazel-central-registry.git
